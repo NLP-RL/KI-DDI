@@ -1,0 +1,8 @@
+Dependicies for runnning linear_plus_knowledge_self_report_having_first_utterance_one_disease.ipynb
+
+transformers : 4.26.1
+torch : 1.13.1+cu116
+pickle : 4.0
+python : 3.9.16
+sklearn : 1.2.1
+numpy : 1.22.4
