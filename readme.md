@@ -1,5 +1,3 @@
-KI-DDI
-
 Knowledge-Infused, Discourse-aware Disease Identification
 
 To train the model please follow the instructions
