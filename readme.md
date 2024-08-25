@@ -1,5 +1,7 @@
 Knowledge-Infused, Discourse-aware Disease Identification
 
+Please find the link to the dataset used in our work - https://docs.google.com/spreadsheets/d/1rmP0APWfO5OTKjvzYMxIRb5E21H9wklieVzCWCFK2DQ/edit?gid=698916126#gid=698916126
+
 To train the model please follow the instructions
 
 1. Make sure you are connected to GPU (Our experiments were carried out in Nvidia A100 GPU)
