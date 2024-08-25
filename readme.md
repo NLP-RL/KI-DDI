@@ -5,7 +5,7 @@ This repository contains the code for our Scientific Reports 2024 Paper "[Toward
 
 * **Authors:** Mohit Tomar<sup>*</sup> , Abhisek Tiwari<sup>*</sup>,and Sriparna Saha
 
-<sup>*</sup> - Equal Contribution
+   <sup>*</sup> - Equal Contribution
 
 Please find the link to the dataset used in our work - https://docs.google.com/spreadsheets/d/1rmP0APWfO5OTKjvzYMxIRb5E21H9wklieVzCWCFK2DQ/edit?gid=698916126#gid=698916126
 
