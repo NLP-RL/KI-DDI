@@ -21,7 +21,7 @@ To train the model please follow the instructions
      (b) final_combined_all_self_report.p - It has only the very first utterance by patient i.e it has self report.
    
      (c) joint_graph - It has the joint graph formed by combined subgraph and dialog node relevant to each dialog.
-  6. Results reported are mean value of running experiments 3 times.
+  5. Results reported are mean value of running experiments 3 times.
 
 If you consider this work useful, please cite it as
 
