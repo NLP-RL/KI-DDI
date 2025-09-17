@@ -36,7 +36,7 @@ To train the model please follow the instructions
    
      (b) final_combined_all_self_report.p - It has only the very first utterance by patient i.e it has self report.
    
-     (c) joint_graph - It has the joint graph formed by combined subgraph and dialog node relevant to each dialog.
+     (c) joint_graph - For getting the joint_graph for (ex- one_disease joint graph), first run the following files (all_dialog_one_disease_knowledge_plus_gat_[1 to 34].ipynb). It will save the the joint graph for dialogs part by part. Then run the gat_applied_one_probable_disease.ipynb file (if are running for                                one_disease) to combine all joint graph into a single joint graph (which contains all dialogs).
   5. Results reported are mean value of running experiments 3 times.
 
 ## Citation Information
